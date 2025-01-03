@@ -1,5 +1,5 @@
 // frontend/pages/index.js
-import SeatGrid from './login/SeatGrid';
+import SeatGrid from './SeatGrid/page';
 import Login from './login/page';
 import Signup from './signup/page';
 
